@@ -1,0 +1,11 @@
+README.md
+args.sh
+conditionals.sh
+helloworld.sh
+loop.sh
+output.sh
+read.sh
+std-err.txt
+std-output.txt
+stdin.sh
+stdout-stderr.sh
