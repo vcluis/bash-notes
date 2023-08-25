@@ -1,0 +1,4 @@
+hello world, writen from a script to a file
+hi world, another line
+hi world, another line
+hi world, another line
